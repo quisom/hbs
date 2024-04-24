@@ -1,3 +1,5 @@
+# Now published under legal name at </BR> https://arxiv.org/abs/2404.14958
+
 # Hierarchical Block Structures (HBSs)
 
 Contains the paper "Saving proof-of-work by hierarchical block structure: Bitcoin 2.0?"
